@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "839928924369",
+    "project_id": "salapak-app",
+    "storage_bucket": "salapak-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839928924369:android:84e72ae96baf47cfb55df0",
+        "android_client_info": {
+          "package_name": "com.app.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839928924369-2cloa93ir7cvog120qqte6jjb2duvngd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmWH8iIMj-BiIvT4a5g6rWNAnHF3O-pEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839928924369-2cloa93ir7cvog120qqte6jjb2duvngd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

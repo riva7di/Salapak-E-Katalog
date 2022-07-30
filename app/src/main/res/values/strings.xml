@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--application name-->
+    <string name="app_name">Salapak</string>
+
+    <!--bottom navigation-->
+    <string name="title_nav_recent">Rekomendasi</string>
+    <string name="title_nav_category">Kategori</string>
+    <string name="title_nav_help">Pusat Bantuan</string>
+    <string name="title_nav_profile">Profil</string>
+
+    <!--privacy policy-->
+    <string name="privacy_policy_url">https://www.instagram.com/salapak.mikroshop/</string>
+
+    <!--share text-->
+    <string name="share_app">Saya ingin berbagi Aplikasi Android Salapak E-Katalog ini dengan Anda. Di Sini Anda Dapat Mengunduh Aplikasi Ini dari PlayStore</string>
+    <string name="share_product_section_one">Cari</string>
+    <string name="share_product_section_two">Dengan Harga</string>
+    <string name="share_product_section_three">Dapatkan sekarang di Salapak E-Katalog</string>
+
+    <!--network-->
+    <string name="no_internet">Tolong, aktifkan koneksi internet sebelum menggunakan aplikasi ini</string>
+
+    <!--title bar-->
+    <string name="title_cart">Keranjang Belanja </string>
+    <string name="title_checkout">Checkout</string>
+
+    <!--action-->
+    <string name="action_cart">Keranjang Saya</string>
+    <string name="action_clear">Hapus Semua</string>
+
+    <!--menu, cart and order-->
+    <string name="search_query_text">Search&#8230;</string>
+    <string name="confirm">Konfirmasi</string>
+    <string name="number_order">Jumlah Pesanan: </string>
+    <string name="clear_all_order">Apakah Anda ingin menghapus semua pesanan Anda?</string>
+    <string name="clear_one_order">Apakah Anda ingin menghapus pesanan ini?</string>
+    <string name="db_exist_alert">Apakah Anda ingin menghapus pesanan Anda sebelumnya?</string>
+    <string name="msg_empty_cart">Keranjang Anda Kosong!</string>
+    <string name="msg_no_history">Riwayat Pesanan Anda Kosong!</string>
+    <string name="empty_cart">Ups, keranjangmu masih kosong</string>
+    <string name="btn_continue_shopping">Belanja Sekarang</string>
+    <string name="btn_add_to_cart">Tambahkan ke keranjang</string>
+    <string name="btn_out_of_stock">Stock Habis</string>
+    <string name="msg_stock_not_enough">Stok Tidak Cukup</string>
+    <string name="msg_stock_below_0">kuantitas produk tidak boleh 0</string>
+    <string name="msg_success_add_cart">Ditambahkan ke Keranjang</string>
+    <string name="btn_checkout">Checkout</string>
+
+    <!--checkout menu-->
+    <string name="checkout_your_name">Namea</string>
+    <string name="checkout_email">E-mail</string>
+    <string name="checkout_phone_number">Telfon</string>
+    <string name="checkout_order_list">Detail Pesanan</string>
+    <string name="checkout_add_comment">Catatan untuk pemasok (Opsional)</string>
+    <string name="no_order_menu">Nomer Pesanan</string>
+    <string name="txt_order">Order :</string>
+    <string name="txt_tax">PPN </string>
+    <string name="txt_total">Total :</string>
+    <string name="txt_shipping">Pengiriman</string>
+    <string name="checkout_fill_form">silahkan isi formulir terlebih dahulu!</string>
+    <string name="checkout_dialog_title">Process Checkout</string>
+    <string name="checkout_dialog_msg">Apakah anda yakin ingin Checkout?</string>
+    <string name="checkout_submit_title">Please wait</string>
+    <string name="checkout_submit_msg">Kirim pesanan anda&#8230;</string>
+    <string name="checkout_success_title">Selamat</string>
+    <string name="checkout_success_msg">Terima kasih telah memesan, pesanan Anda akan segera ditinjau, detail faktur akan dikirim ke email Anda ketika pesanan sudah siap.</string>
+    <string name="checkout_option_ok">Ok</string>
+    <string name="checkout_address">Alamat</string>
+    <string name="checkout_shipping">Pengiriman</string>
+    <string name="title_history">Riwayat Pesanan</string>
+    <string name="title_profile">User Profil</string>
+    <string name="btn_process_checkout">Proses Chekout</string>
+
+    <!--profile preferences-->
+    <string name="pref_group_profile">Profil</string>
+    <string name="pref_title_name">Nama</string>
+    <string name="pref_title_email">E-mail</string>
+    <string name="pref_title_phone">Telfon</string>
+    <string name="pref_title_address">Alamat</string>
+    <string name="default_your_name">Nama</string>
+    <string name="default_your_email">your.email@gmail.com</string>
+    <string name="default_your_phone">Telfon</string>
+    <string name="default_your_address">Alamat</string>
+    <string name="pref_msg_invalid_name">Masukan Nama Tidak Valid</string>
+    <string name="pref_msg_invalid_email">Masukan Email Tidak Valid</string>
+    <string name="pref_msg_invalid_phone">Masukan Telepon Tidak Vali</string>
+    <string name="pref_msg_invalid_address">Masukan Alamat Tidak Valid</string>
+
+    <!--permission-->
+    <string name="permission_msg">Perlu izin</string>
+    <string name="permission_storage">Aplikasi ini membutuhkan penyimpanan akses untuk mengunduh gambar</string>
+    <string name="download_success">Gambar berhasil di downlaod dan disimpan di galeri</string>
+    <string name="download_msg">Downloading&#8230;</string>
+    <string name="loading_msg">Please Waitxx&#8230;</string>
+
+    <!--dialog choose option-->
+    <string name="dialog_option_yes">Yes</string>
+    <string name="dialog_option_no">No</string>
+    <string name="dialog_option_cancel">Cancel</string>
+    <string name="dialog_option_add">Tambah</string>
+    <string name="dialog_settings">Goto Seting</string>
+    <string name="msg_exit">Tekan lagi untuk keluar dari aplikasip</string>
+    <string name="txt_items">Barang</string>
+    <string name="title_img_save">Save</string>
+    <string name="title_img_close">Close</string>
+    <string name="msg_copy">Code pembelian disalin</string>
+    <string name="failed_fetch_data">Tidak dapat mengambil data! Silakan coba lagi.</string>
+    <string name="btn_edit_profile">Edit</string>
+    <string name="txt_profile_history">Riwayat Pesanan</string>
+    <string name="txt_profile_rate">Rate Us</string>
+    <string name="txt_profile_privacy">Privacy Policy</string>
+    <string name="txt_total_order">Total Order</string>
+    <string name="txt_profile_share">Share</string>
+
+</resources>
